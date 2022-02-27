@@ -39,7 +39,7 @@
 .missoes{
     justify-content: center;
     flex-direction: column;
-    height: 25%;
+    height: 30%;
     display: flex;
     align-items: center;
     align-content: flex-start;
