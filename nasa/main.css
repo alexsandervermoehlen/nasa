@@ -45,3 +45,14 @@
     align-content: flex-start;
     justify-content: center;
 }
+
+
+.menu{
+    justify-content: center;
+    flex-direction: column;
+    height: 2.5%;
+    display: flex;
+    align-items: center;
+    align-content: flex-start;
+    justify-content: center;
+}
